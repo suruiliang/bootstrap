@@ -150,7 +150,7 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 - <https://twitter.com/fat>
 - <https://github.com/fat>
-- test
+- test by suruiliang
 
 
 
